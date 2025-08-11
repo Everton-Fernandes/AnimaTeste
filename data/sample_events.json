@@ -1,0 +1,84 @@
+{
+  "value": [
+    {
+      "subject": "Reunião de planejamento Hub Docente",
+      "organizer": {
+        "emailAddress": {
+          "name": "Equipe Hub Docente",
+          "address": "hubdocente@exemplo.com"
+        }
+      },
+      "start": {
+        "dateTime": "2025-08-11T09:00:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "end": {
+        "dateTime": "2025-08-11T10:00:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "location": {
+        "displayName": "Teams Meeting"
+      }
+    },
+    {
+      "subject": "Alinhamento com TI (Órbita/Tenage)",
+      "organizer": {
+        "emailAddress": {
+          "name": "TI Ânima",
+          "address": "ti@exemplo.com"
+        }
+      },
+      "start": {
+        "dateTime": "2025-08-12T14:00:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "end": {
+        "dateTime": "2025-08-12T15:00:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "location": {
+        "displayName": "Sala 402"
+      }
+    },
+    {
+      "subject": "Demo integração Viva Engage",
+      "organizer": {
+        "emailAddress": {
+          "name": "Comunicação",
+          "address": "com@exemplo.com"
+        }
+      },
+      "start": {
+        "dateTime": "2025-08-13T11:30:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "end": {
+        "dateTime": "2025-08-13T12:00:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "location": {
+        "displayName": "Teams Meeting"
+      }
+    },
+    {
+      "subject": "Testando Json",
+      "organizer": {
+        "emailAddress": {
+          "name": "Everton Fernandes",
+          "address": "evertonfernandes@exemplo.com"
+        }
+      },
+      "start": {
+        "dateTime": "2025-08-13T11:30:00",
+        "timeZone": "São VIcente/Sao_Paulo"
+      },
+      "end": {
+        "dateTime": "2025-08-13T12:00:00",
+        "timeZone": "São Vicente/Sao_Paulo"
+      },
+      "location": {
+        "displayName": "Sala 12"
+      }
+    }
+  ]
+}
