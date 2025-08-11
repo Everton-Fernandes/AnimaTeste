@@ -27,7 +27,7 @@ Este projeto é uma aplicação em Python que exibe os próximos eventos do cale
 
    ```bash
    git clone https://github.com/Everton-Fernandes/AnimaTeste.git
-   cd AnimaTeste/python_app
+   cd AnimaTeste
 
    ```
 
